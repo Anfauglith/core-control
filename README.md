@@ -1,9 +1,9 @@
-# Core v2 Management Tool - Ark Devnet (git install)
+# Core v2 Management Tool - Hydra Devnet (git install)
 
 ## Installation
 
 ```sh
-git clone https://github.com/geopsllc/core-control -b ark-devnet-git
+git clone https://github.com/Internet-of-People/core-control -b hyd-devnet-git
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
